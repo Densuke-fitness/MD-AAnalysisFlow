@@ -1,6 +1,6 @@
 # MD&AAnalysisFlow
 
-このレポジトリは、学士卒業論文の際に投稿した[「新型コロナウイルス感染症の前後のテキスト情報比較」](https://drive.google.com/file/d/1cyu_EBnWecTnuDMNGoXt4YML9Z8GoCXd/view?usp=sharing)でおこなった
+このレポジトリは、学士卒業論文の際に投稿した[「新型コロナウイルス感染症の前後のMD&Aのテキスト情報比較」](https://drive.google.com/file/d/1cyu_EBnWecTnuDMNGoXt4YML9Z8GoCXd/view?usp=sharing)でおこなった
 有価証券報告書内に記載されているMD＆Aのデータ分析フローをまとめたモノです。
 
 ## Description
