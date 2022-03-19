@@ -2,7 +2,7 @@
 
 このレポジトリは、学士卒業論文の際に投稿した[「新型コロナウイルス感染症の前後のMD&Aのテキスト情報比較」](https://drive.google.com/file/d/1cyu_EBnWecTnuDMNGoXt4YML9Z8GoCXd/view?usp=sharing)でおこなった
 有価証券報告書内に記載されているMD＆Aのデータ分析フローをまとめたモノです。
-- [卒論発表時に使用したスライド](https://www.canva.com/design/DAE0r3Kf4kM/share/preview?token=Kzty-QPz9JFkvwfmsC6DZg&role=EDITOR&utm_content=DAE0r3Kf4kM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- [卒論発表時に使用したスライド](https://www.canva.com/design/DAE0r3Kf4kM/CWYaEinZybrlKj2sSM82CQ/view?utm_content=DAE0r3Kf4kM&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
 ## Description
 
