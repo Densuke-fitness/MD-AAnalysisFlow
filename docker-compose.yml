@@ -1,12 +1,19 @@
-version: "3"
+version: "3.7"
 services:
     notebook:
-        build:
+        build: 
             context: .
             dockerfile: Dockerfile
-        container_name: notebook
         ports:
-            - "8888:8888"
+           - "8888:8888"
         volumes:
-            - "./src:/home/jovyan"
+           - "./src:/home/jovyan/work" 
         command: start-notebook.sh --NotebookApp.token=''
+    app:
+      container_name: app
+      build: 
+        context: .
+        dockerfile: dev.Dockerfile
+      volumes:
+      - ./src:/src
+      tty: true
