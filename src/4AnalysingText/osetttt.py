@@ -5,10 +5,10 @@ import oseti
 import pickle
 
 
-data_frame_spec = "ave_top_20"
+# data_frame_spec = "ave_top_20"
 # data_frame_spec = "ave_worst_20"
 # data_frame_spec = "2021_top_20"
-# data_frame_spec = "2021_worst_20"
+data_frame_spec = "2021_worst_20"
 
 
 def call_sample_dir_name(initial_name):
